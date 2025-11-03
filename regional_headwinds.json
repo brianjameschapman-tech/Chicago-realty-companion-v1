@@ -1,0 +1,25 @@
+{
+  "rings": {
+    "Urban Core": {
+      "inventory_months": 2.8,
+      "dom_days": 24,
+      "list_sale_ratio": 0.96,
+      "tax_rate": 0.022,
+      "permit_delay_days": 45
+    },
+    "Inner Collar": {
+      "inventory_months": 3.2,
+      "dom_days": 32,
+      "list_sale_ratio": 0.97,
+      "tax_rate": 0.02,
+      "permit_delay_days": 30
+    },
+    "Outer Collar": {
+      "inventory_months": 4.5,
+      "dom_days": 43,
+      "list_sale_ratio": 0.98,
+      "tax_rate": 0.019,
+      "permit_delay_days": 15
+    }
+  }
+}
